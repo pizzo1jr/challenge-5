@@ -1,0 +1,77 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1;
+  }
+  
+  textarea{
+    background: transparent;
+    border: none;
+    resize: none;
+    color: #000000;
+    padding: 10px;
+    width: 920px;
+  }
+  
+  .jumbotron {
+    text-align: center;
+    background-color: transparent;
+    color: black;
+    border-radius: 0;
+    border-bottom: 10px solid rgb(74, 65, 65);
+  }
+  
+  .description{
+    white-space: pre-wrap;
+  }
+  
+  .time-block{
+    text-align: center;
+    border-radius: 15px;
+  }
+  
+  .time {
+    border: none;
+  }
+  
+  .form-control {
+    border: none;
+  }
+  
+  .row {
+    white-space: pre-wrap;
+    height: 80px;
+    border-top: 1px solid white;;
+  }
+  
+  .hour {
+    background-color: #0b9929;
+    color: #000000;
+    border-top: 1px  #000000;
+    width: 110px;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .past {
+    background-color: #8d8d8f;
+    color: white;
+  }
+  
+  .present {
+    background-color: #ff6961;
+    color: white;
+  }
+  
+  .future {
+    background-color: #77dd77;
+    color: white;
+  }
+  
+  .saveBtn {
+    background-color: #d80d0deb;
+    color: white;
+    width: 120px;
+    font-size: 20px;
+  }
+  
