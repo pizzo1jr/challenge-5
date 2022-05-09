@@ -2,6 +2,7 @@
 
 ## Daily Scheduler
 - ability to keep days clutter free.
+![image](https://user-images.githubusercontent.com/102200085/167326293-ad508776-ca89-4e89-b000-7ef52046906e.png)
 
 
 ## Github Link
